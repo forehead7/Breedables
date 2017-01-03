@@ -10,7 +10,6 @@ var spreadsheetId = "1oDszV7lesCn0qTwGMEawsZIo9AhwQS7nsFXOreMWuZc";
 // ***********************************************************************************
 // If you don't have one worksheet, set the value to -1 to disable it
 var breedablesWorksheet = 1;
-var shiniesWorksheet = -1;
 var wantsWorksheet = 3;
 
 // ***********************************************************************************
