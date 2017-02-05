@@ -156,6 +156,7 @@ nav ul li {
     display:inline-block;
     vertical-align: middle;
     position:relative
+    color:#ffffff
 }
 
 nav > ul > li:first-child abbr {
