@@ -216,6 +216,7 @@ h2{
 h3{
     display:inline-block;
     font-size:1em;
+    color:#ffffff;
     line-height:2;
     width:6em;text-indent:1em;
     margin:0;
@@ -283,7 +284,7 @@ td.sprite{width:3.5em;max-width:3.5em}
 td.name .form,td.name .nickname { font-size:0.75em }
 
 tr:hover td {
-    background-color: rgba(67,178,224,0.5);
+    background-color: rgba(216, 0, 0, 0.5);
 }
 
 td.adamant ~ td.atk, td.brave ~ td.atk, td.lonely ~ td.atk, td.naughty ~ td.atk,
