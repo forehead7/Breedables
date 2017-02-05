@@ -267,12 +267,12 @@ td {
 }
 
 td.sprite, td.name, td.hp, td.atk, td.def, td.spa, td.spd, td.spe { white-space: nowrap; }
-td.hp, td.atk, td.def, td.spa, td.spd, td.spe { width: 2.625em; }
-td.poke-balls { width: 6.625em }
-td.name, td.nature, td.ability, td.egg-moves { text-align: left; }
-td.egg-moves { line-height: 1.45; }
+td.hp, td.atk, td.def, td.spa, td.spd, td.spe { text-align: center;; }
+td.poke-balls { text-align: center; }
+td.name, td.nature, td.ability, td.egg-moves { text-align: center; }
+td.egg-moves { line-height: 1.45; text-align: center; }
 
-td.sprite{width:3.5em;max-width:3.5em}
+td.sprite{width:3.5em;max-width:3.5em; text-align: center;}
 
 .gender{
     font-family:"Apple Color Emoji","Segoe UI Emoji","NotoColorEmoji","Segoe UI Symbol","Android Emoji","EmojiSymbols"
