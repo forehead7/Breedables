@@ -22,7 +22,7 @@ time, mark, audio, video {
 body {
     background-color: #000000;
     font: 100%/1.5 "Open Sans", Helvetica, Arial, sans-serif;
-    color: #333;
+    color: #fff;
     overflow-y: scroll
 }
 body,a,a:hover,a:focus,caption{
